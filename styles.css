@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 :root {
     --main-font-family:"Quattrocento Sans";
+    --main-color: #707070;
+  }
+
+  body{
+      color: var(--main-color);
   }
 
 /* Header */
@@ -27,11 +31,17 @@
     width: 40px;
 }
 .brand span {
-    font-family: "Lexend Mega";
-    font-size: 0.8rem;
+    font-family: Dancing Script;
+    font-size: 1.2rem;
     white-space: normal;
+    font-weight: bold;
     padding: 0px;
     margin-top: 0;
+}
+.header-title {
+    /* background-color: antiquewhite; */
+    font-family: var(--main-font-family);
+    padding-bottom: 10px;
 }
 
 .navigation-links {
@@ -60,7 +70,7 @@
 }
 .navigation-links a {
     text-decoration: none;
-    color: rgb(53, 53, 59);
+    color: var(--main-color);
 
 }
 
