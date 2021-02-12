@@ -1,23 +1,17 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
 
 /* Header */
 #header-navbar {
     width: 100vw;
-    height: 60px;
-    padding: 0;
-    
-}
-.header {
-    margin: 0 auto;
-    height: 100%;
-    background: #0994;
-    max-width: 1300px;
+    height: 50px;  
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
-   
+    padding: 0;
+    
 }
+
 .navigation-links {
    margin: 0;
    padding-left: 10px;
@@ -25,23 +19,38 @@
    display: flex;
    flex-direction: row;
    flex-wrap: nowrap;
+   overflow: hidden;
+   margin-right: 20px;
    
 }
 .navigation-links li {
-   background-color: aliceblue;
+   /* background-color: whitesmoke; */
    height: 100%;
    font-size: 1.2rem;
+   font-family:"Quattrocento Sans";
    margin-left: 2px;
-   padding:0 10px;
+   padding: 14px;
+ 
+}
+.navigation-links li:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
 }
 .navigation-links a {
     text-decoration: none;
     color: rgb(53, 53, 59);
-    margin: auto;
+
 }
 
 
 /* Content */
+.content {
+    width:100vw;
+    min-height:100vh;
+    background-color: whitesmoke;
+    margin-top: 2px;
+
+}
 .container {
     background-color: blanchedalmond;
     padding:30px;
