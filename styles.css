@@ -18,6 +18,7 @@
     flex-wrap: nowrap;
     justify-content: space-between;
     padding: 0;
+    border: 1px solid black;
     
 }
 .brand {
@@ -73,8 +74,6 @@
     color: var(--main-color);
 
 }
-
-
 /* Content */
 .content {
     width:100vw;
@@ -83,6 +82,45 @@
     margin-top: 2px;
 
 }
+
+/* sort */
+#nav-sort{
+    /* background-color: rgb(90, 38, 100); */
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+.sort-section {
+ background-color: white;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+ width: fit-content;
+ margin: 5px;
+ /* border: 1px solid #000; */
+ border-radius: 10px;
+ padding: 0 15px;
+}
+.sort-section span{
+    /* background-color: rgb(8, 12, 68); */
+    font-size: 1.2rem;
+    padding: 9px;
+    font-family: var(--main-font-family);
+}
+.sort-section option{
+   display: block;
+   width: 100%;
+}
+.sort-section option:hover {
+    background-color: whitesmoke;
+}
+
+
+
 .container {
     background-color: blanchedalmond;
     padding:30px;
