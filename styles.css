@@ -52,8 +52,7 @@
    flex-direction: row;
    flex-wrap: nowrap;
    overflow: hidden;
-   margin-right: 20px;
-   
+   margin-right: 20px;   
 }
 .navigation-links li {
    height: 100%;
@@ -61,7 +60,6 @@
    font-family: var(--main-font-family);
    margin-left: 2px;
    padding: 14px;
- 
 }
 .navigation-links li:hover {
     background-color: whitesmoke;
@@ -142,8 +140,7 @@
     filter: brightness(70%);
 }
 
-#pdf-cards {
-  
+#pdf-cards {  
     padding:30px;
     display: flex;
     flex-direction: row;
