@@ -135,7 +135,8 @@ var app = angular
                 },
            
             ];
-            $scope.certificates = certificates;
+        $scope.certificates = certificates;
+        $scope.search = '';
 
 
         });
