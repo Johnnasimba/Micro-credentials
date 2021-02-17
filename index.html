@@ -43,7 +43,7 @@
                 <div class="sort-section">
                     <span>Provider:</span>
                     <select name="" id="provider" >             
-                        <option value="all">All</option>
+                        <option value="all" >All</option>
                         <option value="linkedIn">LinkedIn Learning</option>
                         <option value="codeacademy"> Code Academy</option>
                         <option value="ztm">ZTM</option>
@@ -89,7 +89,7 @@
     
             <!-- Certificates-->
      <div id="pdf-cards" align=center >
-        <div ng-repeat="certificate in certificates">
+        <div ng-repeat="certificate in certificates | orderBy: 'courseHours': true">
             <iframe ng-src="{{certificate.pdfUrl}}" width="500" height="400"></iframe>
             <h4> {{certificate.title}} </h4>
             <ul class="languages"  >

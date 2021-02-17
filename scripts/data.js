@@ -5,7 +5,7 @@ var data = [
         provider: 'codecademy',
         category: 'back-end',
         date: new Date('August 30, 2020'),
-        courseHours: 32,
+        courseHours: 32.00,
         languages: [
             'JavaScript', 'Node.js', 'Express', 'APIs', 'HTTP', 'SQL', 'Node-SQLite'
         ],      
@@ -17,7 +17,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'back-end',
         date: new Date('June 09, 2020'),
-        courseHours: 17,
+        courseHours: 17.16,
         topics: [
             'Node.js', 'Security', ' Design Patterns', 'Micro services',
             'Testing and Code Quality', 'Debugging and Performance',
@@ -32,7 +32,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'back-end',
         date: new Date('September 05, 2020'),
-        courseHours: 2,
+        courseHours: 2.30,
         topics: [
             'Node.js', 'Express',  'Scaling Applications'
         ],
@@ -45,7 +45,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'back-end',
         date: new Date('September 05, 2020'),
-        courseHours: 2,
+        courseHours: 2.03,
         topics: [
             'Node.js'
         ],
@@ -58,7 +58,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'back-end',
         date: new Date('September 05, 2020'),
-        courseHours: 1,
+        courseHours: 1.15,
         topics: [
             'Node.js', 'Garageband', 'Scaling Applications'
         ],
@@ -71,7 +71,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'front-end',
         date: new Date('August 29, 2020'),
-        courseHours: 3,
+        courseHours: 3.30,
         topics: [
             'AngularJS', 'Single Page Applications', 'Web Applications Development'
         ],
@@ -83,7 +83,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'database and hosting',
         date: new Date('August 29, 2020'),
-        courseHours: 1,
+        courseHours: 0.57,
         topics: [
             'Full-Stack Development', 'React', 'AWS'
         ],
@@ -95,7 +95,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'database and hosting',
         date: new Date('August 29, 2020'),
-        courseHours: 5,
+        courseHours: 5.00,
         topics: [
             'AWS', 'Cloud Computing'
         ],
@@ -107,7 +107,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'database and hosting',
         date: new Date('August 01, 2020'),
-        courseHours: 1,
+        courseHours: 0.53,
         topics: [
             'AWS Lambda', 'Relational Databases', 'MySQL'
         ],
@@ -119,7 +119,7 @@ var data = [
         provider: 'Linkedin  learning',
         category: 'database and hosting',
         date: new Date('September 04, 2020'),
-        courseHours: 10,
+        courseHours: 10.07,
         topics: [
             'Programming Foundations: Databases', 'SQL Programming', 'MySQL Development', 'MongoDB'
         ],
