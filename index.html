@@ -32,7 +32,7 @@
             </ul>
         
     </nav>
-{{20 + 30}}
+
 
 <!-- Content section -->
     <div class="content">
@@ -42,10 +42,10 @@
             <div id="sort">
                 <div class="sort-section">
                     <span>Provider:</span>
-                    <select name="" id="provider" >             
-                        <option value="all" >All</option>
+                    <select name="" id="provider" ng-model="provider" >             
+                        <option value="" selected>All</option>
                         <option value="linkedIn">LinkedIn Learning</option>
-                        <option value="codeacademy"> Code Academy</option>
+                        <option value="codecademy"> Code Academy</option>
                         <option value="ztm">ZTM</option>
                     </select>
                 </div>
@@ -54,28 +54,28 @@
                 <!-- Categories -->
                 <div class="sort-section">
                     <span>Category:</span>
-                    <select name="" id="categories">
-                        <option value="all">all(51)</option>
-                        <option value="back-end">Back End(29)</option>
-                        <option value="front-end">Front End(20)</option>
-                        <option value="ux-design">UX Design(20)</option>
-                        <option value="database">Database Development(10)</option>
-                        <option value="seo">SEO(9)</option>    
+                    <select name="" id="categories" ng-model="category">
+                        <option value="" selected >all</option>
+                        <option value="back-end">Back End</option>
+                        <option value="front-end">Front End</option>
+                        <option value="ux-design">UX Design</option>
+                        <option value="database">Database Development</option>
+                        <option value="seo">SEO</option>    
                     </select>    
                 </div>
             
                 <!-- Language -->
                 <div class="sort-section">
                     <span>Language & Frameworks:</span>
-                    <select name="" id="language">
-                        <option value="all">All</option>
-                        <option value="c#">Python(Django)</option>
+                    <select name="" id="topics" ng-model="topic">
+                        <option value="" selected >All</option>
+                        <option value="python">Python(Django)</option>
                         <option value="php">PHP(Laravel)</option>
                         <option value="sql">SQL(Postgres, MYSQL, SQlite)</option>
                         <option value="typescript">TypeScript(Angular)</option>
                         <option value="Javascript">JavaScript(NodeJS, React, AngularJS, Redux, Jquery)</option>
-                        <option value="all">CSS(SASS, Bootstrap, Materialize css)</option>
-                        <option value="all">HTML</option>
+                        <option value="css">CSS(SASS, Bootstrap, Materialize css)</option>
+                        <option value="html">HTML</option>
                     </select>            
                 </div>
             
@@ -86,16 +86,19 @@
                     <button type="submit" ng-click="search = text" >Search</button>
                 </form>
         </nav>
-    
+        
             <!-- Certificates-->
      <div id="pdf-cards" align=center >
         <div ng-repeat="certificate in certificates
          | orderBy: 'courseHours': true
          |filter :search
+         |filter :provider
+         |filter :category
+         |filter :topic
          ">
             <iframe ng-src="{{certificate.pdfUrl}}" width="500" height="400"></iframe>
             <h4> {{certificate.title}} </h4>
-            <ul class="languages"  >
+            <ul class="topics"  >
                 <li ng-repeat="topic in certificate.topics">{{topic}} </li>
 
             </ul>

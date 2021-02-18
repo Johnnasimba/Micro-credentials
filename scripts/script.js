@@ -7,8 +7,8 @@ var app = angular
    
     .controller('AppController', function ($scope, $http) {  
         // Fetching data from static json file
-        $http.get('scripts/data.json').then(function(data) {
-            $scope.certificates = data.data;
+        $http.get('scripts/data.json').then(function(response) {
+            $scope.certificates = response.data;
           })
         
         

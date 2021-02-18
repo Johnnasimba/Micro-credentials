@@ -158,14 +158,14 @@
     text-transform: uppercase;
 }
 
- .languages {
+ .topics {
      list-style: none;
      max-width: 500px;
      display: flex;
      flex-wrap: wrap;
      justify-content: center;
 }
-.languages li {
+.topics li {
     display: inline-block;
     background-color: rgb(49, 175, 175);
     color: #fff;

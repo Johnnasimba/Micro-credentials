@@ -25,9 +25,10 @@
        "date":"June 09, 2020",
        "courseHours":17.16,
        "topics":[
+          "JavaScript",
           "Node.js",
           "Security",
-          " Design Patterns",
+          "Design Patterns",
           "Micro services",
           "Testing and Code Quality",
           "Debugging and Performance",
@@ -43,6 +44,7 @@
        "date":"September 05, 2020",
        "courseHours":2.30,
        "topics":[
+          "JavaScript",
           "Node.js",
           "Express",
           "Scaling Applications"
@@ -57,6 +59,7 @@
        "date":"September 05, 2020",
        "courseHours":2.03,
        "topics":[
+          "JavaScript",
           "Node.js"
        ],
        "pdfUrl":"https://drive.google.com/file/d/1ZEFzWu4DGZ6ViEiHCJdut_tY5h0xAots/preview"
@@ -69,6 +72,7 @@
        "date":"September 05, 2020",
        "courseHours":1.15,
        "topics":[
+          "JavaScript",
           "Node.js",
           "Garageband",
           "Scaling Applications"
@@ -83,6 +87,7 @@
        "date":"August 29, 2020",
        "courseHours":3.30,
        "topics":[
+          "JavaScript",
           "AngularJS",
           "Single Page Applications",
           "Web Applications Development"
@@ -99,6 +104,7 @@
        "topics":[
           "Full-Stack Development",
           "React",
+          "JavaScript",
           "AWS"
        ],
        "pdfUrl":"https://drive.google.com/file/d/1kgpDLQwG6_YzCO9DSfHFBkf75ZPRB0qW/preview"
@@ -126,7 +132,8 @@
        "topics":[
           "AWS Lambda",
           "Relational Databases",
-          "MySQL"
+          "MySQL",
+          "SQL"
        ],
        "pdfUrl":"https://drive.google.com/file/d/1rRJ2fmsG_L4iQ0wYBTzDfMi90V3sdzBz/preview"
     },
@@ -141,7 +148,8 @@
           "Programming Foundations: Databases",
           "SQL Programming",
           "MySQL Development",
-          "MongoDB"
+          "MongoDB",
+          "SQL"
        ],
        "pdfUrl":"https://drive.google.com/file/d/18RWBRbAyGVPNl_t5hjGZVCTC3boYFAkf/preview"
     }
