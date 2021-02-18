@@ -152,5 +152,143 @@
           "SQL"
        ],
        "pdfUrl":"https://drive.google.com/file/d/18RWBRbAyGVPNl_t5hjGZVCTC3boYFAkf/preview"
+    },
+    {
+       "title":"Become a Front-End Web Developer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-front-end-web-developer",
+       "Provider":"Linkedin  learning",
+       "category":"front-end",
+       "date":"September 08, 2020",
+       "courseHours":33.42,
+       "topics":[
+          "HTML, CSS and JavaScript",
+          "GitHub, Bootstrap, and React",
+          "Web Development: Full Stack and Front End ",
+          "Web Programming Foundations",
+          "User Experience for Web Design",
+          "UX Foundations: Accessibility",
+          "User Experience for Web Design"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1wvbA4GGxZy7Oy2YgkJFMOaQ--fSlG2zo/preview"
+    },
+    {
+       "title":"Become a Full-Stack Web Developer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer",
+       "Provider":"Linkedin  learning",
+       "category":"front-end and back-end",
+       "date":"August 29, 2020",
+       "courseHours": 42.40,
+       "topics":[
+          "HTML, CSS, JavaScript, ECMAScript 6+ (ES6+)",
+          "Git, React, Angular and Node.js",
+          "SQL, NoSQL, REST APIs",
+          "DevOps Foundations, Performance and Testing",
+          "AWS and SDLC"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1hBgeta0bZK_gENqOqQgdMfOsC66zOStm/preview"
+    },
+    {
+       "title":"Become a Laravel Developer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-laravel-developer",
+       "Provider":"Linkedin  learning",
+       "category":"front-end and back-end",
+       "date":"August 17, 2020",
+       "courseHours": 15.17,
+       "topics":[
+          "PHP",
+          "Laravel 5 and 6 Essential Training",
+          "RESTful APIs in Laravel",
+          "Vue.js",
+          "Laravel and Vue.js Web Apps"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1b2GBcRFLffuEtgMkJ0tYBjGd8Uf_vJud/preview"
+    },
+    {
+       "title":"Become a Node.js Developer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-node-js-developer",
+       "Provider":"Linkedin  learning",
+       "category":"back-end",
+       "date":"August 24, 2020",
+       "courseHours": 22.07,
+       "topics":[
+         "JavaScript",
+          "Node.js",
+          "NPM",         
+          "Building Website with Node.js and Express.js",
+          "Databases for Node.js",
+          "Node.js: Testing and Code Quality",
+          "Node.js: Building and Securing RESTful APIs",
+          "Node.js: Deploying Application"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1JiGYXqUzKT4D6Q6MA2E0270XRsHkUNRn/preview"
+    },
+    {
+       "title":"Become a React Developer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-react-developer",
+       "Provider":"Linkedin  learning",
+       "category":"front-end",
+       "date":"September 02, 2020",
+       "courseHours": 7.37,
+       "topics":[
+         "JavaScript",
+          "React",
+          "React: Building an Interface",         
+          "React: Creating and Hosting a Full-Stack Site",
+          "React: Ecosystems"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/12ewXSimr2nbs9DQ6tChgQ1ghwpgHg4Lh/preview"
+    },
+    {
+       "title":"Become a User Experience Designer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-user-experience-designer",
+       "Provider":"Linkedin  learning",
+       "category":"front-end",
+       "date":"September 12, 2020",
+       "courseHours": 11.49,
+       "topics":[
+         "UX Design: Overview",
+          "User Interface, Creating Personas, Prototyping",
+          "Web Graphic, Ideation, Scenarios and Storyboards",         
+          "Paper Prototyping, Sketching, Photoshop and Illustrator"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1kxKSBQrP-l5LMU_Nxex1GfY3YHJu6i4S/preview"
+    },
+    {
+       "title":"Become a Web Designer",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-a-web-designer",
+       "Provider":"Linkedin  learning",
+       "category":"front-end",
+       "date":"September 29, 2020",
+       "courseHours": 28.31,
+       "topics":[
+         "Design Aesthetics",
+         "Responsive Web Design",
+         "Mobile Web Design",
+          "User Experience",
+          "Mapping Modern Web Design Process",         
+          "HTML and Css",
+          "Illustrator and Photoshop",
+          "HTML and Css"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1OadCLPWnu0QEB7W1TbKKJkG5JBhuk-_E/preview" 
+    },
+    {
+       "title":"Become an SEO Expert",
+       "courseUrl":"https://www.linkedin.com/learning/paths/become-an-seo-expert",
+       "Provider":"Linkedin  learning",
+       "category":"SEO",
+       "date":"September 01, 2020",
+       "courseHours": 11.57,
+       "topics":[
+         "SEO Foundations",
+         "Link Building",
+         "Keyword Strategy",
+          "SEO : Videos",
+          "International SEO",         
+          "Digital Marketing"
+       ],
+       "pdfUrl":"https://drive.google.com/file/d/1_sBL55oM4iXApUgZYxD-IpGXbSGN8W-7/preview" 
     }
+
  ]
+
