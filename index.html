@@ -7,8 +7,10 @@
     <title>Micro-credentials</title>
     <link rel="icon" type="image/ico" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="./styles.css">
+    <link rel="stylesheet" type="text/css" href="./pagination.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js"></script>
-    <script src="./scripts//script.js"></script>
+    <script src="./scripts/dirPagination.js"></script>
+    <script src="./scripts/script.js"></script>
 </head>
 <body ng-controller="AppController" >
 
@@ -89,25 +91,33 @@
         
             <!-- Certificates-->
      <div id="pdf-cards" align=center >
-        <div ng-repeat="certificate in certificates
+        <div dir-paginate="certificate in certificates
          | orderBy: 'courseHours': true
-         |filter :search
          |filter :provider
          |filter :category
          |filter :topic
-         ">
+         |filter :search
+         |itemsPerPage:9
+         " pagination-id="certificates">
             <iframe ng-src="{{certificate.pdfUrl}}" width="500" height="400"></iframe>
-            <h4> {{certificate.title}} </h4>
+            <h4 class="pdf-title"> {{certificate.title}} </h4>
             <ul class="topics"  >
                 <li ng-repeat="topic in certificate.topics">{{topic}} </li>
 
             </ul>
             <a href="{{certificate.courseUrl}}" target="_blank" rel="noopener noreferrer">View Course</a>
             
-        </div>
-       
-      
-    </div>     
+        </div>       
+    </div>  
+    <dir-pagination-controls
+        max-size="9"
+        direction-links="true"
+        boundary-links="true"
+        on-page-change="gotoTop()" 
+        template-url="dirPagination.tpl.html"   
+        pagination-id="certificates"   
+    >
+	</dir-pagination-controls>    
 </div>
 </body>
 </html>

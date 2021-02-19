@@ -1,6 +1,6 @@
 [
     {
-       " title":"Create a back-end app with Javascript skill path",
+       "title":"Create a back-end app with Javascript skill path",
        "courseUrl":"https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript",
        "Provider":"codecademy",
        "category":"back-end",
@@ -18,7 +18,7 @@
        "pdfUrl":"https://drive.google.com/file/d/14lpDRD6bYh1COY3_thB7RqR6auLKdT0p/preview"
     },
     {
-       " title":"Advance your node.js skills",
+       "title":"Advance your node.js skills",
        "courseUrl":"https://www.linkedin.com/learning/paths/advance-your-node-js-skills",
        "Provider":"Linkedin  learning",
        "category":"back-end",
