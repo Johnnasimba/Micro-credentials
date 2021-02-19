@@ -286,6 +286,165 @@
           "Digital Marketing"
        ],
        "pdfUrl":"https://drive.google.com/file/d/1_sBL55oM4iXApUgZYxD-IpGXbSGN8W-7/preview" 
+    },
+    {
+      "title":"Building a Website with Node.js and Express.js",
+      "courseUrl":"https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 20, 2020",
+      "courseHours": 3.10,
+      "topics":[
+        "Advanced Express",
+        "Node.js: Testing and Code Quality",
+        "JavaScript"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1jzkIt5zfmNG_fVWVIqPlgpT8Vu91GGDI/preview"
+    },
+    {
+      "title":"Building Laravel and Vue.js Web Apps",
+      "courseUrl":"https://www.linkedin.com/learning/building-laravel-and-vue-js-web-apps",
+      "Provider":"Linkedin  learning",
+      "category":"back-end and front-end",
+      "date":"August 17, 2020",
+      "courseHours": 2.47,
+      "topics":[
+        "PHP",
+        "JavaScript",
+        "RESTful APIs in Laravel",
+        "Laravel Middleware",
+        "Vue.js in Laravel",
+        "Advanced Laravel"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/137SUHm6jTrQLfa_szM69JFaCuY1EkSVL/preview"
+    },
+    {
+      "title":"Building RESTful APIs in Laravel",
+      "courseUrl":"https://www.linkedin.com/learning/building-restful-apis-in-laravel",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 10, 2020",
+      "courseHours": 2.19,
+      "topics":[
+        "PHP",
+        "Laravel",
+        "RESTful APIs in Laravel",
+        "Introduction to POSTMAN",
+        "MySQL",
+        "CRUD Operations"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1isrenn5G_vMzK_PlBxBYhLISaRu2DKAR/preview"
+    },
+    {
+      "title":"Building RESTful APIs with Node.js and Express",
+      "courseUrl":"https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 23, 2020",
+      "courseHours": 1.25,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Introduction to POSTMAN",
+        "CRUD Operations",
+        "MongoDB"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1I7e8O1BpzI_neJNiSP4v8zTacp5JWBQd/preview"
+    },
+    {
+      "title":"CSS Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/css-essential-training-3",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 28, 2020",
+      "courseHours": 4.28,
+      "topics":[
+        "HTML and CSS",
+        "BOX Model",
+        "Typography",
+        "Float and Position",
+        "Flexbox and Grid",
+        "Fluid and Responsive Layout"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1DBImMh1wWe5VmYn88QLDjZ1EBf7Gbs3M/preview"
+    },
+    {
+      "title":"Database Clinic- SQLite",
+      "courseUrl":"https://www.linkedin.com/learning/database-clinic-sqlite",
+      "Provider":"Linkedin  learning",
+      "category":"database and hosting",
+      "date":"September 03, 2020",
+      "courseHours": 2.10,
+      "topics":[
+        "SQL",
+        "SQLite",
+        "CRUD Operations"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1UaK_oTk3SZdMF1v9NQeJRUs4wyqFl2jh/preview"
+    },
+    {
+      "title":"Databases for Node.js Developers",
+      "courseUrl":"https://www.linkedin.com/learning/databases-for-node-js-developers-2",
+      "Provider":"Linkedin  learning",
+      "category":"back-end and database",
+      "date":"August 22, 2020",
+      "courseHours": 3.01,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "SQL",
+        "MySQL",
+        "mongoDB"         
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1ebf1Rzo-svxp6XSilzrJ6Eec_PDYc1YJ/preview"
+    },
+    {
+      "title":"Design Aesthetics for the Web",
+      "courseUrl":"https://www.linkedin.com/learning/design-aesthetics-for-the-web",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 13, 2020",
+      "courseHours": 2.45,
+      "topics":[
+        "Web Graphics",
+        "Web Typography",
+        "Elements of Design",
+        "Principles of Design"         
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/12yLqJS9VItbGCZBtIUwrVlrJWQGvDVRw/preview"
+    },
+    {
+      "title":"DevOps Foundations",
+      "courseUrl":"https://www.linkedin.com/learning/devops-foundations",
+      "Provider":"Linkedin  learning",
+      "category":"back-end and databases",
+      "date":"August 29, 2020",
+      "courseHours": 2.53,
+      "topics":[
+        "DevOps",
+        "Agile Project Management",
+        "IT Automation",
+        "System Adminstration",         
+        "Software Project Management"         
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1_aJbQdBK15_GmvVx4VKqW8G3szhyAhWf/preview"
+    },
+    {
+      "title":"Express Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/devops-foundations",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 23, 2020",
+      "courseHours": 1.51,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Routing in Express",
+        "Express Middleware"        
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1YMyqr65yj4Iuyfp2LY8Ev0WTeFcmftAc/preview"
     }
 
  ]
