@@ -432,7 +432,7 @@
     },
     {
       "title":"Express Essential Training",
-      "courseUrl":"https://www.linkedin.com/learning/devops-foundations",
+      "courseUrl":"https://www.linkedin.com/learning/express-essential-training",
       "Provider":"Linkedin  learning",
       "category":"back-end",
       "date":"August 23, 2020",
@@ -445,6 +445,331 @@
         "Express Middleware"        
       ],
       "pdfUrl":"https://drive.google.com/file/d/1YMyqr65yj4Iuyfp2LY8Ev0WTeFcmftAc/preview"
+    },
+    {
+      "title":"Getting Your Website Online",
+      "courseUrl":"https://www.linkedin.com/learning/getting-your-website-online",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 02, 2020",
+      "courseHours": 1.05,
+      "topics":[
+        "Hosting websites",
+        "Self-Hosted websites",
+        "WordPress"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1riCscjiti4ziVtXcAoEXKFKNHrxgTq7l/preview"
+    },
+     {
+      "title":"Git Essential Training- The Basics",
+      "courseUrl":"https://www.linkedin.com/learning/git-essential-training-the-basics",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 29, 2020",
+      "courseHours": 2.55,
+      "topics":[
+        "GitHub",
+        "Version Control",
+        "Git"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1CM69FlvKsHmy_iw5lIfixQ68e1x2VIm3/preview"
+    },
+     {
+      "title":"HTML Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/html-essential-training-4",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 18, 2020",
+      "courseHours": 2.45,
+      "topics":[
+        "HTML",
+        "Web Design",
+        "Front-end Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1WJgSkEMnIuXnEj99Xu-yEW1UyQdry0oE/preview"
+    },
+     {
+      "title":"Illustrator for UX Design",
+      "courseUrl":"https://www.linkedin.com/learning/illustrator-for-ux-design",
+      "Provider":"Linkedin  learning",
+      "category":"web-design",
+      "date":"September 12, 2020",
+      "courseHours": 1.55,
+      "topics":[
+        "Wireframing",
+        "User Interface Prototying",
+        "Adobe Illustrator",  
+        "Multi-Device Design",  
+        "User Experience Design(UED)"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1wBQ8XdKxDSB2beGU8XNIld5ZOckCVRNw/preview"
+    },
+     {
+      "title":"Illustrator for Web Design",
+      "courseUrl":"https://www.linkedin.com/learning/illustrator-for-web-design-1",
+      "Provider":"Linkedin  learning",
+      "category":"web-design",
+      "date":"September 14, 2020",
+      "courseHours": 2.49,
+      "topics":[
+        "Mobile Web Design",
+        "Adobe Illustrator",  
+        "Responsive Web Design" 
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1n7MHhoG1QMuC-TmPXVSWLue13gr7hvat/preview"
+    },
+     {
+      "title":"International SEO (2015)",
+      "courseUrl":"https://www.linkedin.com/learning/international-seo",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"September 01, 2020",
+      "courseHours": 1.59,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "International Marketing",  
+        "Measuring International SEO Performance", 
+        "One-Page and Off-site Factors of International SEO" 
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1Ud5siUrNiFtrV0_L01RNTShTFV1uRHQU/preview"
+    },
+     {
+      "title":"Introduction to CSS",
+      "courseUrl":"https://www.linkedin.com/learning/introduction-to-css",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 18, 2020",
+      "courseHours": 1.58,
+      "topics":[
+        "Cascading Style Sheets(CSS)",
+        "Web Standards" 
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/10RapM8sJ9t30arEAobhZkfzAyeAymsrW/preview"
+    },
+     {
+      "title":"Introduction to Web Design and Development",
+      "courseUrl":"https://www.linkedin.com/learning/introduction-to-web-design-and-development",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 13, 2020",
+      "courseHours": 3.38,
+      "topics":[
+        "Web Development",
+        "Web Design" 
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/16hAzisquaFK74pI1IK-MW3u6ip0vCIzO/preview"
+    },
+     {
+      "title":"JavaScript Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/javascript-essential-training",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 28, 2020",
+      "courseHours": 5.32,
+      "topics":[
+        "JavaScript",
+        "DOM", 
+        "Array",
+        "Functions and Methods", 
+        "Objects" 
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1EP1XldtpHNlRyonCryqKpMVxAMaFWykl/preview"
+    },
+     {
+      "title":"Laravel 5 Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/laravel-5-essential-training-2",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and back-end",
+      "date":"August 09, 2020",
+      "courseHours": 2.53,
+      "topics":[
+        "PHP",
+        "Laravel",
+        "Back-end Web Development",
+        "Front-end Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1rfT5QMtb4b7nFsQfbMAfjoCsx4R8UZNU/preview"
+    },
+     {
+      "title":"Laravel 6 Essential Training_ II Testing, Securing and Deploying Apps",
+      "courseUrl":"https://www.linkedin.com/learning/laravel-6-essential-training-testing-securing-and-deploying-apps",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 10, 2020",
+      "courseHours": 3.31,
+      "topics":[
+        "PHP",
+        "Laravel",
+        "Software Testing",
+        "Software Development",
+        "Software Security",
+        "Software Deployment",
+        "Back-end Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1W_Pas1DSjRDD7G7k5htBs8GaguvRVAZ6/preview"
+    },
+     {
+      "title":"Learning Amazon Web Services (AWS) for Developers (2018)",
+      "courseUrl":"https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-2",
+      "Provider":"Linkedin  learning",
+      "category":"database and hosting",
+      "date":"Jul 31, 2020",
+      "courseHours": 1.27,
+      "topics":[
+        "Amazon Web Services(AWS)",
+        "AWS Console",
+        "Cloud Adminstration",
+        "Cloud Development",
+        "Software Development",
+        "Software Security",
+        "Software Deployment"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/14HOtl0SBNKepsOFvwhQdV7NM5XyQ9IGq/preview"
+    },
+     {
+      "title":"Learning ECMAScript 6",
+      "courseUrl":"https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 28, 2020",
+      "courseHours": 2.04,
+      "topics":[
+        "JavaScript",
+        "ECMAScript",
+        "ECMAScript Array Methods",
+        "ECMAScript Objects and Functions"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/13rOONzxqy-NAipFo4EDJbx12u0IqluVv/preview"
+    },
+     {
+      "title":"Learning Full-Stack JavaScript Development- MongoDB, Node, and React",
+      "courseUrl":"https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and back-end",
+      "date":"August 26, 2020",
+      "courseHours": 3.27,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "React",
+        "MongoDB",
+        "Full-Stack Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1JmU3pGqj-NzbYWH_99CRM67ZIuxO4ROp/preview"
+    },
+     {
+      "title":"Learning GitHub",
+      "courseUrl":"https://www.linkedin.com/learning/learning-github",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"September 07, 2020",
+      "courseHours": 2.11,
+      "topics":[
+        "GitHub",
+        "Version Control",
+        "Git"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1T2As11ZI98yzJO1x4fWhE-Yfr29Fei2i/preview"
+    },
+     {
+      "title":"Learning MongoDB (2017)",
+      "courseUrl":"https://www.linkedin.com/learning/learning-mongodb",
+      "Provider":"Linkedin  learning",
+      "category":"databases",
+      "date":"August 25, 2020",
+      "courseHours": 1.35,
+      "topics":[
+        "MongoDB",
+        "Database Development",
+        "Full-Stack Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1n7PRmTV8JLspCAW4V2pqEwILkknxprMO/preview"
+    },
+     {
+      "title":"Learning Node.js",
+      "courseUrl":"https://www.linkedin.com/learning/learning-node-js-2017",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 18, 2020",
+      "courseHours": 1.57,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Full-Stack Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/12f_iTnaLVwI3z4qm6HuRzG_paVbaOLP_/preview"
+    },
+     {
+      "title":"Learning NoSQL Databases",
+      "courseUrl":"https://www.linkedin.com/learning/learning-nosql-databases",
+      "Provider":"Linkedin  learning",
+      "category":"databases",
+      "date":"August 29, 2020",
+      "courseHours": 0.56,
+      "topics":[
+        "NoSQL",
+        "couchDB",
+        "Database Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1f4I8T3JNkceBJuMO75-iQLWHpc7Gze0q/preview"
+    },
+     {
+      "title":"Learning npm the Node Package Manager",
+      "courseUrl":"https://www.linkedin.com/learning/learning-npm-the-node-package-manager-2018",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 19, 2020",
+      "courseHours": 0.43,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Back-end Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/18NkVRkrBPhMjWWzjhupogxsYhhdH44Zl/preview"
+    },
+     {
+      "title":"Learning React.js",
+      "courseUrl":"https://www.linkedin.com/learning/learning-react-js-5",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 02, 2020",
+      "courseHours": 1.00,
+      "topics":[
+        "JavaScript",
+        "React",
+        "Application Frameworks",
+        "Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/11ibrlD_if0Hpq63OaVMe10fMlM3lqm_M/preview"
+    },
+     {
+      "title":"Learning Responsive Web Design in the Browser",
+      "courseUrl":"https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 28, 2020",
+      "courseHours": 1.51,
+      "topics":[
+        "Content Management Systems(CMS)",
+        "Responsive Web Design",
+        "WordPress",
+        "Front-end Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1cd_Te7sNdK7eY4bMSGW0AtlPTY-OU92X/preview"
+    },
+     {
+      "title":"Learning REST APIs",
+      "courseUrl":"https://www.linkedin.com/learning/learning-rest-apis",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 29, 2020",
+      "courseHours": 1.08,
+      "topics":[
+        "Application Programming Interface",
+        "RESTful APIs",
+        "Back-end Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1LIm5O7RGAGq-52QwRHDI3YIdZlheC_vc/preview"
     }
 
  ]
