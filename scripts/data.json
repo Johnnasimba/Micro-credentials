@@ -770,6 +770,155 @@
         "Back-end Web Development"
       ],
       "pdfUrl":"https://drive.google.com/file/d/1LIm5O7RGAGq-52QwRHDI3YIdZlheC_vc/preview"
+    },
+    {
+      "title":"Learning SQL Programming",
+      "courseUrl":"https://www.linkedin.com/learning/learning-sql-programming",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"September 04, 2020",
+      "courseHours": 1.27,
+      "topics":[
+        "SQL",
+        "Database Queries",
+        "Database Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1pLsHXR7rX_A_6RuDrN45JMz5I1m7uK52/preview"
+    },
+  {
+      "title":"Local SEO",
+      "courseUrl":"https://www.linkedin.com/learning/local-seo",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"September 01, 2020",
+      "courseHours": 2.31,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Local SEO"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1LBQTLle2d9TBDRrooaKCVY46ZQ_m_E_3/preview"
+    },
+  {
+      "title":"Mapping the Modern Web Design Process",
+      "courseUrl":"https://www.linkedin.com/learning/mapping-the-modern-web-design-process",
+      "Provider":"Linkedin  learning",
+      "category":"web-design",
+      "date":"September 29, 2020",
+      "courseHours": 2.16,
+      "topics":[
+        "Web Design",
+        "Mobile Web Design",
+        "Responsive Web Design"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1A5vCksgil-4vXVsS1WpBp2EOkjD5ssPa/preview"
+    },
+  {
+      "title":"MySQL Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/mysql-essential-training-2",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"September 04, 2020",
+      "courseHours": 2.03,
+      "topics":[
+        "SQL",
+        "MySQL",
+        "Database Management System(DBMS)",
+        "Database Administration"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/16N75fHLT8FLWKbmhE-SKcDvfLIBsQWEt/preview"
+    },
+  {
+      "title":"Node.js- Deploying Applications",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-deploying-applications",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 24, 2020",
+      "courseHours": 1.24,
+      "topics":[
+        "Node.js",
+        "JavaScript",
+        "Back-End Web Development",
+        "Heroku",
+        "Azure",
+        "Continuos Deployment"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1pMaLs3qPCeU6TquTEGDibIgZifhq4YfW/preview"
+    },
+  {
+      "title":"Node.js Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-essential-training-2",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 19, 2020",
+      "courseHours": 1.53,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Back-End Web Development",
+        "Application Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1lmatgGXxzeKeJF9pWVE-Obx2NbTu1ov5/preview"
+    },
+  {
+      "title":"Node.js- Real-Time Web with Socket.IO",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-real-time-web-with-socket-io",
+      "Provider":"Linkedin  learning",
+      "category":"back-end and front-end",
+      "date":"August 24, 2020",
+      "courseHours": 1.24,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Socket.io",
+        "Front-End Development",
+        "Back-End Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1SR_CQH7cAXzDPdGeIolEv15sXR-28Mvp/preview"
+    },
+  {
+      "title":"Node.js- Securing RESTful APIs",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-securing-restful-apis-2",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 26, 2020",
+      "courseHours": 1.21,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "REST APIs",
+        "Software Development Security"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1fIbdifBOkbt7LYTBiSP-4v0rT97ApSYb/preview"
+    },
+  {
+      "title":"Node.js_ Debugging and Performance Tuning",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"September 26, 2020",
+      "courseHours": 2.44,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Measuring performance",
+        "Back-End Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1s3MDsO5IcMrNrawXogJTLSCcBchzPuun/preview"
+    },
+  {
+      "title":"Node.js_ Design Patterns",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"September 05, 2020",
+      "courseHours": 2.11,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Express"          
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1TVB9MHOun3TwLmWseNCdg2tWkQvZrB9h/preview"
     }
 
  ]
