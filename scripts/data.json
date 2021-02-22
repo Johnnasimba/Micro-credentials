@@ -919,6 +919,145 @@
         "Express"          
       ],
       "pdfUrl":"https://drive.google.com/file/d/1TVB9MHOun3TwLmWseNCdg2tWkQvZrB9h/preview"
+    },
+    {
+      "title":"Node.js_ Micro-services",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-microservices",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"September 05, 2020",
+      "courseHours": 2.14,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Micro-services",          
+        "Back-end Web Development"          
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1wNG6rYJo9C45v8ulBx3LazdKGJu7JG9z/preview"
+    },
+  {
+      "title":"Node.js_ Testing and Code Quality",
+      "courseUrl":"https://www.linkedin.com/learning/node-js-testing-and-code-quality",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 05, 2020",
+      "courseHours": 3.25,
+      "topics":[
+        "JavaScript",
+        "Node.js",
+        "Back-end Web Development"          
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1f5D11YUyaybY6ZJn4e-YmBtu0uq_6mjx/preview"
+    },
+  {
+      "title":"Performance Testing Foundations",
+      "courseUrl":"https://www.linkedin.com/learning/performance-testing-foundations",
+      "Provider":"Linkedin  learning",
+      "category":"back-end",
+      "date":"August 28, 2020",
+      "courseHours": 1.21,
+      "topics":[
+        "Performance Testing",
+        "Software Testing"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1cUvwTj34qzis4adXRe8yHCEYOitgrzKR/preview"
+    },
+  {
+      "title":"Photoshop for UX Design",
+      "courseUrl":"https://www.linkedin.com/learning/photoshop-for-ux-design",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 12, 2020",
+      "courseHours": 1.33,
+      "topics":[
+        "Adobe Photoshop",
+        "Multi-Device Design",
+        "User Experience Design(UED)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/11Hu8hi6QbgWfnZZcnIbMD0toFc6nbkbZ/preview"
+    },
+  {
+      "title":"Photoshop for Web Design",
+      "courseUrl":"https://www.linkedin.com/learning/photoshop-for-web-design",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 18, 2020",
+      "courseHours": 2.33,
+      "topics":[
+        "Adobe Photoshop",
+        "Multi-Device Design",
+        "Responsive Web Design"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1VlQVQCc-nkrGeloiHRx7tEQ-GWfoCOFb/preview"
+    },
+  {
+      "title":"Programming Foundations Algorithms",
+      "courseUrl":"https://www.linkedin.com/learning/programming-foundations-algorithms",
+      "Provider":"Linkedin  learning",
+      "category":"data-structure",
+      "date":"November 19, 2020",
+      "courseHours": 1.45,
+      "topics":[
+        "Algorithms",
+        "Software Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1ypVanwY_LknJbmU4a1Wp8A89dewHWvQC/preview"
+    },
+  {
+      "title":"Programming Foundations- Fundamentals",
+      "courseUrl":"https://www.linkedin.com/learning/programming-foundations-algorithms",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and back-end",
+      "date":"September 06, 2020",
+      "courseHours": 2.06,
+      "topics":[
+        "Python",
+        "Programming", 
+        "JavaScript"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1zrlDLoMG2_QW3DQaTGS_zbcZfx_fadww/preview"
+    },
+  {
+      "title":"React- Creating and Hosting a Full-Stack Site",
+      "courseUrl":"https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 02, 2020",
+      "courseHours": 2.41,
+      "topics":[
+        "React",
+        "JavaScript", 
+        "Full-Stack Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/14SQTkS4-Y_Gmu56jHU63gkF3vPJ_PpuP/preview"
+    },
+  {
+      "title":"React- Ecosystems",
+      "courseUrl":"https://www.linkedin.com/learning/react-ecosystems",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 02, 2020",
+      "courseHours": 0.12,
+      "topics":[
+        "React",
+        "JavaScript", 
+        "Full-Stack Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1aWHXQLcJrUy7I8kFs2sGC1Z6-70PfHlX/preview"
+    },
+  {
+      "title":"React.js- Building an Interface",
+      "courseUrl":"https://www.linkedin.com/learning/react-js-building-an-interface-2",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 02, 2020",
+      "courseHours": 2.17,
+      "topics":[
+        "React",
+        "JavaScript", 
+        "front-end Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1nV5BZ9wEScMF56JZS1MMWyC9hA_S6m6Q/preview"
     }
 
  ]
