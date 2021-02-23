@@ -99,24 +99,49 @@
     },
     {
       "title":"SEO_ Videos",
-      "courseUrl":"https://www.linkedin.com/learning/seo-link-building",
+      "courseUrl":"https://www.linkedin.com/learning/seo-videos-3",
       "Provider":"Linkedin  learning",
       "category":"SEO",
       "date":"August 31 2020",
       "courseHours": 1.07,
       "topics":[
         "Search Engine Optimization(SEO)",
-        "Online Marketing", 
-        "Link Building"
+        "Video Marketing"
       ],
-      "pdfUrl":"https://drive.google.com/file/d/1iV9U7YkZsaIR3q1sm1iXEzQqcTzOernf/preview"
+      "pdfUrl":"https://drive.google.com/file/d/1gS-vCWKSdsPdxslJYYj5CYvQCZ2LWt6z/preview"
+    },
+    {
+      "title":"Sketch for UX Design",
+      "courseUrl":"https://www.linkedin.com/learning/sketch-for-ux-design-2",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 08, 2020",
+      "courseHours": 2.15,
+      "topics":[
+        "User Interface Prototying",
+        "Mobile Application Development",
+        "Interaction Design",
+        "User Experience Design(UED)",
+        "Sketch App"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1f_yHCuCM7awNPZjt7rUcPDptzc3HNkaz/preview"
+    },
+    {
+      "title":"Software Development Life Cycle (SDLC)",
+      "courseUrl":"https://www.linkedin.com/learning/software-development-life-cycle-sdlc",
+      "Provider":"Linkedin  learning",
+      "category":"project-management",
+      "date":"August 29, 2020",
+      "courseHours": 1.34,
+      "topics":[
+        "Software Project Management",
+        "Software Development Life Cycle (SDLC)"        
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1cqopb67RsyPAwCrLyNklTd_sn1rfhEE7/preview"
     }
 
 
 ]
-
-
-
 
 
 
