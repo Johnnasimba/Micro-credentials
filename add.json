@@ -1,0 +1,148 @@
+[
+    {
+      "title":"React.js Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/react-js-essential-training",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 27, 2020",
+      "courseHours": 1.25,
+      "topics":[
+        "React",
+        "JavaScript", 
+        "Application Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1PSD5ZCEQRhy7gV0o7W5mi3DFs_V2_3Gq/preview"
+    },
+    {
+      "title":"Responsive Images",
+      "courseUrl":"https://www.linkedin.com/learning/responsive-images",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 27, 2020",
+      "courseHours": 1.21,
+      "topics":[
+        "Responsive Web Design",
+        "Web Graphics", 
+        "Front-end Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1Qq16lI1aZi3NsvgcL8xp9Tl8MaKoMPS1/preview"
+    },
+    {
+      "title":"Responsive Layout",
+      "courseUrl":"https://www.linkedin.com/learning/responsive-layout",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 07, 2020",
+      "courseHours": 2.32,
+      "topics":[
+        "HTML",
+        "CSS", 
+        "Front-end Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1X4_ab0CZqHr5fX6tQqbZOuORYkGgEBVh/preview"
+    },
+    {
+      "title":"Responsive Typography Techniques",
+      "courseUrl":"https://www.linkedin.com/learning/responsive-typography-techniques",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 29, 2020",
+      "courseHours": 2.09,
+      "topics":[
+        "Web Typography",
+        "Responsive Web Design", 
+        "Front-End Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1BCcivkmGnridsKGPlG5SaF-02cu1viNo/preview"
+    },
+    {
+      "title":"Sass Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/sass-essential-trainings",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 07 2020",
+      "courseHours": 2.04,
+      "topics":[
+        "SASS",
+        "CSS", 
+        "Front-End Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1sEP4BWbrfHofGS-bmYDpK3OU4CO6l4DU/preview"
+    },
+    {
+      "title":"SEO_ Keyword Strategy",
+      "courseUrl":"https://www.linkedin.com/learning/seo-keyword-strategy-2020",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"August 07 2020",
+      "courseHours": 1.36,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Online Marketing", 
+        "Keyword Advertising"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1pVofcanMFLCTB59dI4FAnybEzJHbkaBS/preview"
+    },
+    {
+      "title":"SEO_ Link Building in Depth",
+      "courseUrl":"https://www.linkedin.com/learning/seo-link-building",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"August 31 2020",
+      "courseHours": 1.07,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Online Marketing", 
+        "Link Building"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1iV9U7YkZsaIR3q1sm1iXEzQqcTzOernf/preview"
+    },
+    {
+      "title":"SEO_ Videos",
+      "courseUrl":"https://www.linkedin.com/learning/seo-link-building",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"August 31 2020",
+      "courseHours": 1.07,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Online Marketing", 
+        "Link Building"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1iV9U7YkZsaIR3q1sm1iXEzQqcTzOernf/preview"
+    }
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
