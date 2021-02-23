@@ -1058,6 +1058,311 @@
         "front-end Development"  
       ],
       "pdfUrl":"https://drive.google.com/file/d/1nV5BZ9wEScMF56JZS1MMWyC9hA_S6m6Q/preview"
+    },
+    {
+      "title":"React.js Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/react-js-essential-training",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"August 27, 2020",
+      "courseHours": 1.25,
+      "topics":[
+        "React",
+        "JavaScript", 
+        "Application Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1PSD5ZCEQRhy7gV0o7W5mi3DFs_V2_3Gq/preview"
+    },
+    {
+      "title":"Responsive Images",
+      "courseUrl":"https://www.linkedin.com/learning/responsive-images",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 27, 2020",
+      "courseHours": 1.21,
+      "topics":[
+        "Responsive Web Design",
+        "Web Graphics", 
+        "Front-end Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1Qq16lI1aZi3NsvgcL8xp9Tl8MaKoMPS1/preview"
+    },
+    {
+      "title":"Responsive Layout",
+      "courseUrl":"https://www.linkedin.com/learning/responsive-layout",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 07, 2020",
+      "courseHours": 2.32,
+      "topics":[
+        "HTML",
+        "CSS", 
+        "Front-end Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1X4_ab0CZqHr5fX6tQqbZOuORYkGgEBVh/preview"
+    },
+    {
+      "title":"Responsive Typography Techniques",
+      "courseUrl":"https://www.linkedin.com/learning/responsive-typography-techniques",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 29, 2020",
+      "courseHours": 2.09,
+      "topics":[
+        "Web Typography",
+        "Responsive Web Design", 
+        "Front-End Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1BCcivkmGnridsKGPlG5SaF-02cu1viNo/preview"
+    },
+    {
+      "title":"Sass Essential Training",
+      "courseUrl":"https://www.linkedin.com/learning/sass-essential-trainings",
+      "Provider":"Linkedin  learning",
+      "category":"front-end",
+      "date":"September 07 2020",
+      "courseHours": 2.04,
+      "topics":[
+        "SASS",
+        "CSS", 
+        "Front-End Development"  
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1sEP4BWbrfHofGS-bmYDpK3OU4CO6l4DU/preview"
+    },
+    {
+      "title":"SEO_ Keyword Strategy",
+      "courseUrl":"https://www.linkedin.com/learning/seo-keyword-strategy-2020",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"August 07 2020",
+      "courseHours": 1.36,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Online Marketing", 
+        "Keyword Advertising"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1pVofcanMFLCTB59dI4FAnybEzJHbkaBS/preview"
+    },
+    {
+      "title":"SEO_ Link Building in Depth",
+      "courseUrl":"https://www.linkedin.com/learning/seo-link-building",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"August 31 2020",
+      "courseHours": 1.07,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Online Marketing", 
+        "Link Building"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1iV9U7YkZsaIR3q1sm1iXEzQqcTzOernf/preview"
+    },
+    {
+      "title":"SEO_ Videos",
+      "courseUrl":"https://www.linkedin.com/learning/seo-videos-3",
+      "Provider":"Linkedin  learning",
+      "category":"SEO",
+      "date":"August 31 2020",
+      "courseHours": 1.07,
+      "topics":[
+        "Search Engine Optimization(SEO)",
+        "Video Marketing"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1gS-vCWKSdsPdxslJYYj5CYvQCZ2LWt6z/preview"
+    },
+    {
+      "title":"Sketch for UX Design",
+      "courseUrl":"https://www.linkedin.com/learning/sketch-for-ux-design-2",
+      "Provider":"Linkedin  learning",
+      "category":"front-end and web-design",
+      "date":"September 08, 2020",
+      "courseHours": 2.15,
+      "topics":[
+        "User Interface Prototying",
+        "Mobile Application Development",
+        "Interaction Design",
+        "User Experience Design(UED)",
+        "Sketch App"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1f_yHCuCM7awNPZjt7rUcPDptzc3HNkaz/preview"
+    },
+    {
+      "title":"Software Development Life Cycle (SDLC)",
+      "courseUrl":"https://www.linkedin.com/learning/software-development-life-cycle-sdlc",
+      "Provider":"Linkedin  learning",
+      "category":"project-management",
+      "date":"August 29, 2020",
+      "courseHours": 1.34,
+      "topics":[
+        "Software Project Management",
+        "Software Development Life Cycle (SDLC)"        
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1cqopb67RsyPAwCrLyNklTd_sn1rfhEE7/preview"
+    },
+    {
+      "title":"Learn HTML",
+      "courseUrl":"https://www.codecademy.com/learn/learn-html",
+      "Provider":"codecademy",
+      "category":"front-end",
+      "date":"February 10 2020",
+      "courseHours": 9.00,
+      "topics":[
+        "HTML",
+        "Basics Of Web Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1Xfl9Sjdgn9-Pw1lFvWRblejK6HB2DKm2/preview"
+    },
+  {
+      "title":"Building Interactive JavaScript Website Course",
+      "courseUrl":"https://www.codecademy.com/learn/build-interactive-websites",
+      "Provider":"codecademy",
+      "category":"front-end",
+      "date":"April 07 2020",
+      "courseHours": 7.00,
+      "topics":[
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Front-End Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1cf4TREXGBGOt1maGpqVUAu-IKVBtGEhH/preview"
+    },
+  {
+      "title":"How to Debug JavaScript Erros ",
+      "courseUrl":"https://www.codecademy.com/learn/javascript-errors-debugging",
+      "Provider":"codecademy",
+      "category":"front-end and back-end",
+      "date":"April 19 2020",
+      "courseHours": 1.00,
+      "topics":[
+        "JavaScript",
+        "debugging"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1KuLogrcmgNbUyTPgEAt1cxZ5pU40y7Tx/preview"
+    },
+  {
+      "title":"How to Deploy a Website",
+      "courseUrl":"https://www.codecademy.com/learn/deploy-a-website",
+      "Provider":"codecademy",
+      "category":"front-end and back-end",
+      "date":"August 16 2020",
+      "courseHours": 2.00,
+      "topics":[
+        "Front-End Development",
+        "Back-End Development",
+        "Web Hosting"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1pUggaWMdrQwD79mNWGwrSrwucsY1n1BA/preview"
+    },
+  {
+      "title":"How to Make a Website with NameCheap ",
+      "courseUrl":"https://www.codecademy.com/learn/make-a-website",
+      "Provider":"codecademy",
+      "category":"front-end and back-end",
+      "date":"August 15 2020",
+      "courseHours": 9.00,
+      "topics":[
+        "Front-End Development",
+        "Back-End Development",
+        "Web Hosting"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1FIDTS2kE8hEs9PzashZKB4pgokji9m7t/preview"
+    },
+  {
+      "title":"Learn Asynchronous JavaScript ",
+      "courseUrl":"https://www.codecademy.com/learn/asynchronous-javascript",
+      "Provider":"codecademy",
+      "category":"front-end and back-end",
+      "date":"April 21, 2020",
+      "courseHours": 1.00,
+      "topics":[
+        "JavaScript",
+        "JavaScript Promises",
+        "Async Await"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1ceTJwSZB-Gw2SzbNkKmaujFX3i3UOjit/preview"
+    },
+  {
+      "title":"Learn Bootstrap",
+      "courseUrl":"https://www.codecademy.com/learn/learn-bootstrap",
+      "Provider":"codecademy",
+      "category":"front-end",
+      "date":"April 26, 2020",
+      "courseHours": 3.00,
+      "topics":[
+        "HTML and CSS",
+        "Bootstrap",
+        "Front-End Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1aHbDVB4bNyC9xre-y-Rd1Ht_YyX1ZhpN/preview"
+    },
+  {
+      "title":"Learn CSS",
+      "courseUrl":"https://www.codecademy.com/learn/learn-css",
+      "Provider":"codecademy",
+      "category":"front-end",
+      "date":"February 17, 2020",
+      "courseHours": 20.00,
+      "topics":[
+        "HTML and CSS",
+        "Front-End Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1wluuLP_28Dn8dKNcScCCVPnEL4x2dvX8/preview"
+    },
+  {
+      "title":"Learn D3",
+      "courseUrl":"https://www.codecademy.com/learn/learn-d3",
+      "Provider":"codecademy",
+      "category":"front-end",
+      "date":"February 18, 2020",
+      "courseHours": 2.00,
+      "topics":[
+        "JavaScript",
+        "D3",
+        "Front-End Development"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1ICZtuMlV-KLxpkbLNkpIO_7UimrniUj4/preview"
+    },
+  {
+      "title":"Learn Git",
+      "courseUrl":"https://www.codecademy.com/learn/learn-git",
+      "Provider":"codecademy",
+      "category":"back-end",
+      "date":"August 15, 2020",
+      "courseHours": 10.00,
+      "topics":[
+        "Git",
+        "Version Control",
+        "GitHub"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1vDJ8HhVANGAsGPgj8aCiOe9e26-s4Pwn/preview"
+    },
+  {
+      "title":"JavaScrip Unit Testing ",
+      "courseUrl":"https://www.codecademy.com/learn/learn-javascript-unit-testing",
+      "Provider":"codecademy",
+      "category":"front-end and back-end",
+      "date":"April 27, 2020",
+      "courseHours": 6.00,
+      "topics":[
+        "JavaScript",
+        "Testing and debugging",
+        "Mocha",
+        "Test-Driven Development with Mocha"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1xH5cs4mErjd57O-toeFtAuYewKQSEakT/preview"
+    },
+  {
+      "title":"Learn JavaScript",
+      "courseUrl":"https://www.codecademy.com/learn/introduction-to-javascript",
+      "Provider":"codecademy",
+      "category":"front-end and back-end",
+      "date":"August 15, 2020",
+      "courseHours": 30.00,
+      "topics":[
+        "JavaScript the Language"          
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1VuhQksNMXLQAWlDioTPDzy4VvgYsCFoM/preview"
     }
 
  ]
