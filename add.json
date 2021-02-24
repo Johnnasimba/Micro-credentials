@@ -199,24 +199,131 @@
         "title":"Web Programming Foundations",
         "courseUrl":"https://www.linkedin.com/learning/web-programming-foundations",
         "Provider":"Linkedin  learning",
-        "category":"front-end",
-        "date":"August 15, 2020",
-        "courseHours": 3.46,
+        "category":"front-end and back-end",
+        "date":"September 06, 2020",
+        "courseHours": 0.58,
         "topics":[
-          "Vue.js",       
-          "JavaScript",       
-          "Front-End Development"       
+          "Understanding Web Development Process",       
+          "Duality of Web Development",       
+          "Programming Foundations"       
         ],
-        "pdfUrl":"https://drive.google.com/file/d/1_kXEw-M5zyOhvT86MedBAKwgm9qOBM0l/preview"
+        "pdfUrl":"https://drive.google.com/file/d/1FX6bU0wmXt5AnRCDO8KnJ70EgSP5_sS7/preview"
+      },
+    {
+        "title":"Advanced Javascript Concepts",
+        "courseUrl":"https://academy.zerotomastery.io/p/advanced-javascript-concepts",
+        "Provider":"ztm",
+        "category":"front-end and back-end",
+        "date":"October 10, 2020",
+        "courseHours": 24.05,
+        "topics":[
+          "JavaScript Foundations",       
+          "Hoisting",      
+          "Scope",      
+          "Types in JavaScript",     
+          "Closures and Prototypal Inheritance",       
+          "Object Oriented Programming",    
+          "Functional Programming",      
+          "Asynchronous Javascript",      
+          "Modules in JavaScript",       
+          "Error Handling",      
+          "Data Structure In JavaScript"       
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1_WvFsBjH-lvZqiYraeihwihJ6zXtNGcI/preview"
+      },
+    {
+        "title":"Complete React Developer in 2020 (W/Redux, Hooks, Graphql)",
+        "courseUrl":"https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery",
+        "Provider":"ztm",
+        "category":"front-end",
+        "date":"September 23, 2020",
+        "courseHours": 40.05,
+        "topics":[
+          "JavaScript Foundations",       
+          "React Basics",      
+          "Advanced React and React Hooks",      
+          "Firebase and User Authentication",     
+          "Redux, Asynchronous Redux, Redux-saga",       
+          "Stripe Payments",    
+          "Deploying to Production",      
+          "CSS and Styled-components",      
+          "HOC Patterns",       
+          "Context API",      
+          "GraphQL and Apollo",      
+          "Progressive Web App",      
+          "Testing"       
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1YSLhnUcWQOXTohYJb5d8mQbfSX95SIuo/preview"
+      },
+    {
+        "title":"Complete SQL Databases Bootcamp",
+        "courseUrl":"https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery",
+        "Provider":"ztm",
+        "category":"database",
+        "date":"September 23, 2020",
+        "courseHours": 24.05,
+        "topics":[
+          "SQL Fundamentals",       
+          "PostgresSQL and Valentina Studio",      
+          "Advanced SQL",      
+          "Database Management",     
+          "Database Design",       
+          "Database Landscape, Performance and Security",    
+          "Redis"
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1JVNpy8mw2MTk8YhGhXIim_xg3pO3SOIL/preview"
+      },
+    {
+        "title":"The Complete Junior to Senior Web Developer",
+        "courseUrl":"https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap",
+        "Provider":"ztm",
+        "category":"front-end, back-end, performance and testing, database",
+        "date":"October 19, 2020",
+        "courseHours": 36.05,
+        "topics":[
+          "SSH",       
+          "Performance",       
+          "React + Redux + Module Bundling",      
+          "Testing",      
+          "JavaScript + TypeScript",     
+          "SPA vs Server Side Rendering",       
+          "Security",    
+          "Code Analysis",
+          "Docker",
+          "Redis",
+          "Session + JWT",
+          "AWS",
+          "CI/CD"
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1fK-NcMasH5kJTZnPv2Q_pF-GtvsNVHrA/preview"
+      },
+    {
+        "title":"The Complete Junior to Senior Web Developer",
+        "courseUrl":"https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap",
+        "Provider":"ztm",
+        "category":"front-end, back-end, performance and testing, database",
+        "date":"October 19, 2020",
+        "courseHours": 36.05,
+        "topics":[
+          "SSH",       
+          "Performance",       
+          "React + Redux + Module Bundling",      
+          "Testing",      
+          "JavaScript + TypeScript",     
+          "SPA vs Server Side Rendering",       
+          "Security",    
+          "Code Analysis",
+          "Docker",
+          "Redis",
+          "Session + JWT",
+          "AWS",
+          "CI/CD"
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1fK-NcMasH5kJTZnPv2Q_pF-GtvsNVHrA/preview"
       }
 
 
 ]
-
-
-
-
-
 
 
 
