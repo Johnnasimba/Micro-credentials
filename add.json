@@ -298,41 +298,122 @@
         "pdfUrl":"https://drive.google.com/file/d/1fK-NcMasH5kJTZnPv2Q_pF-GtvsNVHrA/preview"
       },
     {
-        "title":"The Complete Junior to Senior Web Developer",
-        "courseUrl":"https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap",
-        "Provider":"ztm",
-        "category":"front-end, back-end, performance and testing, database",
-        "date":"October 19, 2020",
-        "courseHours": 36.05,
+        "title":"Learn JQuery",
+        "courseUrl":"https://www.codecademy.com/learn/learn-jquery",
+        "Provider":"codecademy",
+        "category":"front-end",
+        "date":"March 30, 2020",
+        "courseHours": 9.00,
         "topics":[
-          "SSH",       
-          "Performance",       
-          "React + Redux + Module Bundling",      
-          "Testing",      
-          "JavaScript + TypeScript",     
-          "SPA vs Server Side Rendering",       
-          "Security",    
-          "Code Analysis",
-          "Docker",
-          "Redis",
-          "Session + JWT",
-          "AWS",
-          "CI/CD"
+          "jQuery",       
+          "JavaScript",       
+          "Front-End Development"       
         ],
-        "pdfUrl":"https://drive.google.com/file/d/1fK-NcMasH5kJTZnPv2Q_pF-GtvsNVHrA/preview"
+        "pdfUrl":"https://drive.google.com/file/d/1jPN77XTYUTUZIgyg9_zmK1xSyzVcyQaE/preview"
+      },
+    {
+        "title":"Learn Node.js",
+        "courseUrl":"https://www.codecademy.com/learn/learn-node-js",
+        "Provider":"codecademy",
+        "category":"back-end",
+        "date":"March 30, 2020",
+        "courseHours": 1.00,
+        "topics":[
+          "Node.js",       
+          "JavaScript",       
+          "Back-End Development"       
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1IVHq9bCijDo4FKipyMdcTcxZfigTvNDL/preview"
+      },
+    {
+        "title":"Learn Node-SQLite",
+        "courseUrl":"https://www.codecademy.com/learn/learn-node-sqlite",
+        "Provider":"codecademy",
+        "category":"back-end and database",
+        "date":"March 30, 2020",
+        "courseHours": 1.00,
+        "topics":[
+          "Node.js",       
+          "SQlite",       
+          "JavaScript",       
+          "Back-End Development"       
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1zNpw8mZZrSSBDbCD3Mto35wfzrQiEmBR/preview"
+      },
+    {
+        "title":"Learn PHP",
+        "courseUrl":"https://www.codecademy.com/learn/learn-php",
+        "Provider":"codecademy",
+        "category":"back-end",
+        "date":"August 15, 2020",
+        "courseHours": 25.00,
+        "topics":[
+          "Introduction to PHP",       
+          "HTML Form Handling in PHP",       
+          "Classes and Objects in PHP",    
+          "Back-End Development"       
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1Uz14u3HkELxO3xfrljwXq3EcbElOzzZO/preview"
+      },
+    {
+        "title":"Learn React.js",
+        "courseUrl":"https://www.codecademy.com/learn/react-101",
+        "Provider":"codecademy",
+        "category":"front-end",
+        "date":"April 25, 2020",
+        "courseHours": 20.00,
+        "topics":[
+          "React",       
+          "JSX",       
+          "React Hooks",    
+          "Advanced React",    
+          "Back-End Development"       
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1cGNQRkS6fszHUeK5HLK1S_Exsn1QOndH/preview"
+      },
+    {
+        "title":"Learn the Basics of Regular Expressions",
+        "courseUrl":"https://www.codecademy.com/learn/introduction-to-regular-expressions",
+        "Provider":"codecademy",
+        "category":"front-end",
+        "date":"August 15, 2020",
+        "courseHours": 1.00,
+        "topics":[
+          "Introduction to Regular Expression"      
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1infbc6WPz7brK6rCF7OeJWq3AY6aU3CE/preview"
+      },
+    {
+        "title":"Learn Vue.js",
+        "courseUrl":"https://www.codecademy.com/learn/learn-vue-js",
+        "Provider":"codecademy",
+        "category":"front-end",
+        "date":"August 15, 2020",
+        "courseHours": 8.00,
+        "topics":[
+          "Vue.js",     
+          "JavaScript",      
+          "Front-End Development"  
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/1K1eCAm6nQYrCPuysMDY3Jdi_xbiIQtde/preview"
+      },
+    {
+        "title":"Web Development Path",
+        "courseUrl":"https://www.codecademy.com/catalog/subject/web-development",
+        "Provider":"codecademy",
+        "category":"front-end, back-end and database",
+        "date":"August 18, 2020",
+        "courseHours": 60.00,
+        "topics":[
+          "Front-End Development",     
+          "Back-end Development",      
+          "PHP, SQL, JavaScript, HTML and CSS"  
+        ],
+        "pdfUrl":"https://drive.google.com/file/d/19WNP3sMkEPT8zykbwWBU63OHIGKujtxR/preview"
       }
 
 
 ]
-
-
-
-
-
-
-
-
-
 
 
 
