@@ -4,13 +4,21 @@
     --main-font-family:"Quattrocento Sans";
     --main-color: #707070;
   }
+  html {
+    scroll-padding-top: 100px;
+  }
 
   body{
       color: var(--main-color);
+      scroll-behavior: smooth;
   }
 
 /* Header */
 #header-navbar {
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
     width: 100vw;
     height: 50px;  
     display: flex;
@@ -75,22 +83,28 @@
     display: none;
 }
 /* Content */
-.content {
+#content {
+    position: relative;
+    top: 60px;
     width:100vw;
     min-height:100vh;
     background-color: whitesmoke;
     margin-top: 2px;
+    overflow: scroll;
+
 
 }
 
 /* sort */
 #nav-filter {
+    position: relative;
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;
     justify-content: space-between;
 }
 #filter{
+    position: relative;
     height: 50px;
     margin-top: 20px;
     display: flex;
