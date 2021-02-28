@@ -234,7 +234,7 @@ footer {
         display: none;
     }
     .menu-button{
-        background-color: whitesmoke;
+        /* background-color: rgb(253, 231, 231); */
         display: flex;
         justify-content: center;
         align-items: center;

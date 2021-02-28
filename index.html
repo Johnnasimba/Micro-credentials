@@ -9,8 +9,10 @@
     <meta name="image" property="og:image" content="./icons/micro-credentials.png">
     <title>Micro-credentials</title>
     <link rel="icon" type="image/ico" href="./icons/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="./styles.css">
-    <link rel="stylesheet" type="text/css" href="./pagination.css">
+    <link rel="stylesheet" type="text/css" href="./styles/styles.css">
+    <link rel="stylesheet" type="text/css" href="./styles/pagination.css">
+    <link rel="stylesheet" type="text/css" href="./styles/side-nav.styles.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js"></script>
     <script src="./scripts/dirPagination.js"></script>
     <script src="./scripts/script.js"></script>
@@ -37,11 +39,31 @@
                 <li> <a href="https://github.com/Johnnasimba/Micro-credentials" target="_blank" rel="noopener noreferrer"> Source Code</a></li>
             </ul>
             <!-- Menu Button -->
-            <div class="menu-button">
-                <img ng-src="icons/menu-icon.svg" alt="menu icon" srcset="">
-            </div>
+            <button class="header__button" id="btnNav" type="button">
+                <i class="material-icons">menu</i>
+            </button>
         
     </header>
+
+    <!-- Side-bar Navigation for mobile view -->
+    <nav class="nav">
+        <div class="nav__links">
+            <a  class="nav__link" href="https://johnnasimba.herokuapp.com/">
+                Portfolio website
+            </a>
+            <a class="nav__link" href="https://www.linkedin.com/in/john-nasimba/" target="_blank" rel="noopener noreferrer">
+                LinkedIn Profile
+            </a>
+            <a class="nav__link"  href="https://github.com/Johnnasimba" target="_blank" rel="noopener noreferrer">
+                Github Account
+            </a>
+          
+            <a class="nav__link" href="https://github.com/Johnnasimba/Micro-credentials" target="_blank" rel="noopener noreferrer">
+                Source Code
+            </a>
+        </div>
+        <div class="nav__overlay"></div>
+    </nav>
 
 <!-- Content section -->
     <div id="content">
