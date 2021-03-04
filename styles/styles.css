@@ -100,7 +100,6 @@
 #filter{
     position: relative;
     height: 50px;
-    /* margin-top: 20px; */
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -236,7 +235,6 @@ footer {
         display: none;
     }
     #btnNav {
-        /* background-color: rgb(253, 231, 231); */
         display: flex;
         justify-content: center;
         align-items: center;

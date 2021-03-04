@@ -19,9 +19,6 @@ var app = angular
             $anchorScroll();
         }
     });
-
-
-
     
 
 // Side-bar Navigation
