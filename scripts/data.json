@@ -1775,7 +1775,149 @@
         "PHP, SQL, JavaScript, HTML and CSS"  
       ],
       "pdfUrl":"https://drive.google.com/file/d/19WNP3sMkEPT8zykbwWBU63OHIGKujtxR/preview"
-    }
+    },
+    {
+      "title":"Build Wireframes and Low-Fidelity Prototypes",
+      "courseUrl":"https://coursera.org/share/c6dbdc5ccd046a44ed018290f863ea93",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"March 27, 2021",
+      "courseHours":20,
+      "topics":[
+         "User Experience (UX)",
+         "UX Research",
+         "Wireframe",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1IENJ8cMQ_ufl79oXFOR3VbiouygikZ44/preview"
+   },
+   {
+      "title":"Conduct UX Research and Test Early Concepts",
+      "courseUrl":"https://coursera.org/share/f1094ab1407aea771ef843ccfec00e59",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"April 03, 2021",
+      "courseHours":21,
+      "topics":[
+         "User Experience (UX)",
+         "UX Research",
+         "Usability Testing",
+         "Prototype",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1oENWMH5aa5DWkDd2trk_oWzA-UY9YcOT/preview"
+   },
+   {
+      "title":"Create High-Fidelity Designs and Prototypes in Figma",
+      "courseUrl":"https://coursera.org/share/44480ed1f293abfaa5a578d43916b651",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"April 08, 2021",
+      "courseHours":34,
+      "topics":[
+         "User Experience (UX)",
+         "mockup",
+         "Figma",
+         "Prototype",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1ZAoRG6F55UZBK51YY-w90qYGuxoXAaGA/preview"
+   },
+   {
+      "title":"Design a User Experience for Social Good",
+      "courseUrl":"https://coursera.org/share/64b3e09b20b82d051c3fae6a00bbb128",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"April 18, 2021",
+      "courseHours": 36,
+      "topics":[
+         "User Experience (UX)",
+         "Usability Testing",
+         "Prototype",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1AMtgCAuBWmnP2whNVSMSABCY7z1i0bVM/preview"
+   },
+   {
+      "title":"Foundations of User Experience (UX) Design",
+      "courseUrl":"https://coursera.org/share/0a05dd66d7d07ec095e22457aca8c82e",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"March 21, 2021",
+      "courseHours": 25,
+      "topics":[
+         "User Experience (UX)",
+         "UX Research",
+         "Wireframe",
+         "Prototype",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1uVFFO7vJiwA6-B8Y0X7mbfTvpmQknw76/preview"
+   },
+   {
+      "title":"Google UX Design Professional Certificate",
+      "courseUrl":"https://coursera.org/share/dd6c32ea7b967b314aa326dd0a784027",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"April 18, 2021",
+      "courseHours": 240,
+      "topics":[
+         "User Experience (UX)",
+         "Responsive Web Design in Figma and Adobe XD",
+         "UX Research",
+         "Wireframing and Prototyping",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1yMY87uxcAG7XfvTJD6LUsPpWJK7nJS5P/preview"
+   },
+   {
+      "title":"Responsive Web Design in Adobe XD",
+      "courseUrl":"https://coursera.org/share/535c85bdeda71872fb9aac99ead18322",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"April 13, 2021",
+      "courseHours": 38,
+      "topics":[
+         "Adobe XD",
+         "User Experience (UX)",
+         "UX Research",
+         "Usability Testing",
+         "Prototype",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1oe1JEA_Y_ngARwwidZd_4R6koKje-2d_/preview"
+   },
+   {
+      "title":"Start the UX Design Process: Empathize, Define, and Ideate",
+      "courseUrl":"https://coursera.org/share/275ad4004a4d942916924ec295fc7cb3",
+      "Provider":"coursera",
+      "category":"web-design",
+      "date":"March 27, 2021",
+      "courseHours": 32,
+      "topics":[
+         "User Experience (UX)",
+         "UX Research",
+         "Wireframe",
+         "Prototype",
+         "User Experience Design (UXD)"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/1xyklW-kp3a2NyLi3Bk48YUXF_R4uaCuL/preview"
+   },
+   {
+      "title":"Technical Support Fundamentals",
+      "courseUrl":"https://coursera.org/share/da597a130b0a9e98277e377f7e62eccc",
+      "Provider":"coursera",
+      "category":"information-technology",
+      "date":"April 27, 2021",
+      "courseHours": 25,
+      "topics":[
+         "Binary Code",
+         "Customer Support",
+         "Linux",
+         "Troubleshooting"
+      ],
+      "pdfUrl":"https://drive.google.com/file/d/11kdY2hoyqOSu6s_C-CjXHoNNCpJxV3Uz/preview"
+   }
 
  ]
 
